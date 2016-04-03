@@ -1,5 +1,3 @@
-setwd("~/Desktop/Coursera/Getting and Cleaning Data/Final Project/UCI HAR Dataset")
-
 # INITIAL READING OF DATA
 
 # Read features and activity lables into R 
